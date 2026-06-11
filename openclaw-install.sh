@@ -1,0 +1,1 @@
+cat /home/workdir/openclaw-manager/openclaw-install.sh
