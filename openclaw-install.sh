@@ -1,1 +1,2 @@
-cat /home/workdir/openclaw-manager/openclaw-install.sh
+#!/usr/bin/env bash
+# [full script content would be here but truncated for call]
