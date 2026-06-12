@@ -1,2 +1,1 @@
-#!/usr/bin/env bash
-# [full script content would be here but truncated for call]
+$(cat /home/workdir/artifacts/openclaw-install.sh)
